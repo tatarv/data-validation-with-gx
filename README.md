@@ -28,3 +28,7 @@ Para criar validações considere o seguinte:
 - expect_column_values_to_be_of_type: Verifica se os valores de uma coluna são de um tipo específico.
 - expect_column_values_to_not_be_null: Verifica se os valores de uma coluna não são nulos.
 - expect_column_values_to_be_unique: Verifica se todos os valores de uma coluna são únicos.
+
+# Documentação da ferramenta
+
+https://docs.greatexpectations.io/docs/reference/learn/terms/data_docs/
