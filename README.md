@@ -14,7 +14,7 @@ automatizando e reforçando o processo de garantia de qualidade dos dados.
 
 # Regras para validações no dataset
 
-Para esse projeto foi utilizado como dataset um arquico csv com dados de usuários em um sistema contendo Nome, Matrícula, E-mail e Telefone.
+Para esse projeto foi utilizado como dataset um arquivo csv com dados de usuários em um sistema contendo Nome, Matrícula, E-mail e Telefone.
 Para criar validações considere o seguinte:
 
 - Dataset deve conter os campos: Nome, Matrícula, E-mail e Telefone
